@@ -32,22 +32,22 @@
         //     Console.WriteLine("the number is odd.");
         // }
 
-        Console.WriteLine("Enter a character: ");
-        string? character = Console.ReadLine();
+        // Console.WriteLine("Enter a character: ");
+        // string? character = Console.ReadLine();
 
-        switch(character) {
-            case "a":
-            case "e":
-            case "i":
-            case "o":
-            case "u":
-                Console.WriteLine("The character is vowel");
-                break;
-            default:
-                Console.WriteLine("The character is consonant");
-                break;
+        // switch(character) {
+        //     case "a":
+        //     case "e":
+        //     case "i":
+        //     case "o":
+        //     case "u":
+        //         Console.WriteLine("The character is vowel");
+        //         break;
+        //     default:
+        //         Console.WriteLine("The character is consonant");
+        //         break;
 
-        }
+        // }
         
     }
 }
